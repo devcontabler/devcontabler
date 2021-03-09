@@ -4,10 +4,13 @@
 
 
 ### Hola aquí estamos 👋
-### Somos Contabler desde Medellín - Colombia
+### Somos el equipo de Desarrollo de Contabler desde Medellín - Colombia
+
+### 🔨 Lo que somos
+Somos una sociedad de Contadores Públicos, especializada en la prestación de servicios de Revisoría Fiscal, Auditoría, Gerencia de Contabilidades, Asesoría Tributaria, y en la producción de herramientas que facilitan el ejercicio de la profesión.
 
 ### 🔨 Lo que hacemos
-Somos una sociedad de Contadores Públicos, especializada en la prestación de servicios de Revisoría Fiscal, Auditoría, Gerencia de Contabilidades, Asesoría Tributaria, y en la producción de herramientas que facilitan el ejercicio de la profesión.
+Desarrollamos las herramientas necesarias para la operación de las diferentes áreas de la empresa.
 
 ### 📫 Puedes buscarnos en:
 - [Twitter](https://twitter.com/contabler) 🐦
